@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is to learn some basic things about howt o use rails and to learn some heroku
 
 Things you may want to cover:
 
